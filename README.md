@@ -9,4 +9,4 @@ Ahn Jiwon
 
 ![jiwon-ahn-1-190x266](https://user-images.githubusercontent.com/122419271/212208008-8ce048da-8bdd-4645-bc9b-499b30ee98b2.jpg)
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=582934745539277068" height="714" width="345" frameborder="0" scrolling="no" ></iframe>
+https://www.pinterest.ph/pin/582934745539277068/
