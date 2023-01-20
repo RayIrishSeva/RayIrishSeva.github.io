@@ -12,3 +12,7 @@ Ahn Jiwon
 Aray
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pqLyr0xbp0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+love scars
+
+![273991416_302299878664225_2186403094418568143_n](https://user-images.githubusercontent.com/122419271/213594154-138685f9-7b51-4805-87bf-733c2865ef2e.jpg)
